@@ -8,6 +8,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jainsneha6" alt="jainsneha6" /></a> </p>
 
+- 🎓 I’m currently pursuing a **BTech in Computer Science Engineering**
+
+- 🌱 I’m currently learning **Full Stack Web Development**
+
 - 📫 How to reach me **jainsnehasj6@gmail.com**
 
 - ⚡ Fun fact **In my spare moments, I'm often lost in the pages of a good book or crafting stories of my own.**
