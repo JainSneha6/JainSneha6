@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **jainsnehasj6@gmail.com**
 
-- ⚡ Fun fact **In my spare moments, I'm often lost in the pages of a good book or crafting stories of my own.**
+- ⚡ **In my spare moments, I'm often lost in the pages of a good book or crafting stories of my own.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
