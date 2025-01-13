@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sneha Jain</h1>
-<h3 align="center">Passionate second-year BTech student deeply invested in Computer Science, driven to make impactful contributions and expand skills within the tech industry.</h3>
+<h3 align="center">Passionate BTech student deeply invested in Computer Science, driven to make impactful contributions and expand skills within the tech industry.</h3>
 <p align="center">
   <img alt="Coding" width="400" src="https://github.com/JainSneha6/JainSneha6/blob/main/Premium%20Vector%20_%20Woman%20working%20at%20laptop%20from%20home%20illustration.jpg">
 </p>
